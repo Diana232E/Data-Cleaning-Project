@@ -4,6 +4,7 @@ Objective
 This project focused on cleaning and validating a raw dataset using Microsoft Power BI.
 
 Tasks Performed
+
 Handled missing values
 Investigated blank discount fields
 Validated totals using expected totals
